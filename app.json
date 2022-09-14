@@ -1,6 +1,6 @@
 {
-      "name": "Shikimori Bot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "Muskan Bot",
+      "description": "A Powerful  Telegram group management bot with anime theme🌷.",
       "keywords": [
          "telegram",
          "advance",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://i.imgur.com/1bgC3Yb.jpg",  
-   "repository": "https://github.com/SOME-1HING/ShikimoriBot",
+   "repository": "https://github.com/Kamran920/muskanbot.",
    "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-python"
