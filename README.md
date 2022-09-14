@@ -1,14 +1,14 @@
-![Shikimori](https://telegra.ph/file/d0c1cd93423c66c099b48.jpg)
+![Muskan🌷](https://telegra.ph/file/d0c1cd93423c66c099b48.jpg)
 
 <h2 align="center">
-    ──「 SHIKIMORI IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 MUSKAN IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
   <a href="https://github.com/SOME-1HING/ShikimoriBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
   <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
   <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-  <a href="https://github.com/SOME-1HING/ShikimoriBot"> <img src="https://img.shields.io/badge/Maintained-Yes-lightgrey?style=for-the-badge" alt="Maintenance" /> </a>
+  <a href="https://github.com/Kamran920/muskanbot."> <img src="https://img.shields.io/badge/Maintained-Yes-lightgrey?style=for-the-badge" alt="Maintenance" /> </a>
 </p>
 
 <h2 align="center">
